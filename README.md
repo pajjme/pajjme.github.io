@@ -1,5 +1,5 @@
 # Pajj.me
-![Image](https://github.com/pajjme/pajjme.github.io/blob/master/IMG_20170130_151350.jpg
+![Image](https://raw.githubusercontent.com/pajjme/pajjme.github.io/master/IMG_20170130_151350.jpg
 )
 
 
